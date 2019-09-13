@@ -1,7 +1,7 @@
 import 'dart:html' as html;
 
 import 'package:flutter_web/material.dart';
-import 'package:myportfolio/responsive_widget.dart';
+import 'package:my_place/responsive_widget.dart';
 
 class ProfilePage extends StatelessWidget {
   const ProfilePage({Key key}) : super(key: key);
